@@ -1,7 +1,7 @@
 const express = require('express')
 
 const app = express()
-const PORT =6665
+const PORT = 3001
 const http = require('http')
 const cors = require('cors')
 const {Server} = require('socket.io')
